@@ -1,0 +1,26 @@
+{
+  "format": "CHIP-0007",
+  "minting_tool": "mintgarden-studio",
+  "sensitive_content": false,
+  "name": "Chibi Secrets #10",
+  "description": "Every Chibi Has a Secre",
+  "attributes": [],
+  "collection": {
+    "id": "8e74c497-7d50-40c2-8c80-b6e509b3953a",
+    "name": "Chibi Secrets",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Cute faces. Hidden desires. Mysterious secrets.\n\nChibi Secrets is a collection of playful chibi characters, each hiding something of their own. Discover them, collect them, and uncover what lies behind the cute.\n\nEvery Chibi Has a Secret."
+      },
+      {
+        "type": "icon",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeiczc2goz4jensq74bw7q2dez6bynocmnib5ravquzhwytdv4umwxi/file_000000009ad881f4b96103ccaaecd729.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://ipfs.mintgarden.io/ipfs/bafybeidarr7lhpvhrxogkjuxjwvrznsijzwztzozt2vsrhqlcolhd3hxy4/file_00000000d1608211b9b109a42998e563.png"
+      }
+    ]
+  }
+}
